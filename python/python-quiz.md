@@ -2678,7 +2678,7 @@ The code defines a `square` function to calculate the square of a number. It the
 [Reference](https://www.geeksforgeeks.org/taking-input-from-console-in-python/)
 
 
-#### Q185.1. What will be the output of the following Python code?
+#### Q185. What will be the output of the following Python code?
 
 print("Hello {name1} and {name2}".format(name1='foo', name2='bin'))
 -[x] Hello foo and bin
@@ -2687,5 +2687,11 @@ print("Hello {name1} and {name2}".format(name1='foo', name2='bin'))
 -[] Hello and
 
 
+###Q186. Which of the following statements is correct regarding the object-oriented programming concept in Python?
+
+-[] Classes are real-world entities while objects are not real
+-[] Objects are real-world entities while classes are not real
+-[] Both objects and classes are real-world entities
+-[x] All of the above
 
 
